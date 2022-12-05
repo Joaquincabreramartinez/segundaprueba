@@ -6,7 +6,7 @@ public class SegundaPrueba {
 		System.out.println("primer commit");
 		System.out.println("segundo commit commit");
 		System.out.println("tercer commit commit");
-		System.out.println("cuarto que dara fallo commit commit");
+		System.out.println("cuarto que dafra fallo commit commit");
 
 	}
 
